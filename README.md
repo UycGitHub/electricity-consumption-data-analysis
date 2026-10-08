@@ -136,7 +136,7 @@ The following visualizations summarize the main findings of the analysis, includ
 
 | Yearly Analysis | Monthly Analysis |
 |---|---|
-| ![Yearly Analysis](images/yearly-analysis.png) | ![Monthly Analysis](images/monthly-analysis.png) |
+| ![Yearly Analysis](images/yearly-analysis.PNG) | ![Monthly Analysis](images/monthly-analysis.png) |
 
 | Hourly Analysis | Yearly Peak |
 |---|---|
