@@ -136,23 +136,23 @@ The following visualizations summarize the main findings of the analysis, includ
 
 | Yearly Analysis | Monthly Analysis |
 |---|---|
-| ![Yearly Analysis](images/yearly-analysis.PNG) | ![Monthly Analysis](images/monthly-analysis.png) |
+| ![Yearly Analysis](images/yearly-analysis.PNG) | ![Monthly Analysis](images/monthly-analysis.PNG) |
 
 | Hourly Analysis | Yearly Peak |
 |---|---|
-| ![Hourly Analysis](images/hourly-analysis.png) | ![Yearly Peak](images/yearly-peak.png) |
+| ![Hourly Analysis](images/hourly-analysis.PNG) | ![Yearly Peak](images/yearly-peak.PNG) |
 
 | Daily Analysis | Seasonal Analysis |
 |---|---|
-| ![Daily Analysis](images/daily-analysis.png) | ![Seasonal Analysis](images/seasonal-analysis.png) |
+| ![Daily Analysis](images/daily-analysis.PNG) | ![Seasonal Analysis](images/seasonal-analysis.PNG) |
 
 | Rolling 12M with Monthly Trend | Frequency Distribution |
 |---|---|
-| ![Rolling 12M with Monthly Trend](images/rolling-12m-with-monthly-trend.png) | ![Frequency Distribution](images/frequency-distribution.png) |
+| ![Rolling 12M with Monthly Trend](images/rolling-12m-with-monthly-trend.PNG) | ![Frequency Distribution](images/frequency-distribution.PNG) |
 
 | Distribution & Outliers | |
 |---|---|
-| ![Distribution & Outliers](images/distribution-and-outliers.png) | |
+| ![Distribution & Outliers](images/distribution-and-outliers.PNG) | |
 
 ## Project Structure
 
