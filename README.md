@@ -1,6 +1,7 @@
 # Electricity Consumption Data Analysis
 
 ## Project Overview
+🎥 **Introduction Video:** [Click here to watch](https://drive.google.com/file/d/1AYCnqUp6EJ_pgx_tIBxdNOBiQrV8weG4/view?usp=drive_link)
 
 This project analyzes historical hourly electricity consumption data using Python and Pandas.
 
